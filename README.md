@@ -20,14 +20,6 @@ ishan-darbari-portfolio/
 ### Open Locally
 Simply double-click `index.html` — it opens in any modern browser with zero setup.
 
-### Host Online (Free Options)
-| Platform | Steps |
-|----------|-------|
-| **GitHub Pages** | Push folder to a repo → Settings → Pages → Deploy from `/root` |
-| **Netlify** | Drag & drop the folder at netlify.com/drop |
-| **Vercel** | `vercel deploy` from the folder via CLI |
-| **Tiiny.host** | Upload the zip at tiiny.host for instant URL |
-
 ---
 
 ## ✨ Features
